@@ -27,3 +27,31 @@ section {
     border-radius: 5px;
     background-image: linear-gradient(orange, tomato);
 }
+
+.about-me {
+    color: gray;
+    padding-top: 20%;
+}
+
+.banner-add {
+    background-image: url(images/shapes/7.png);
+}
+
+.contract-button {
+    text-decoration: none;
+    padding: 10px 30px;
+    color: white;
+    font-weight: 600;
+    border-radius: 5px;
+    background-image: linear-gradient(tomato, orange);
+}
+
+.recipies-heading {
+    text-align: center;
+}
+
+.recipies-pera {
+    text-align: center;
+    padding-right: 20%;
+    padding-left: 20%;
+}
